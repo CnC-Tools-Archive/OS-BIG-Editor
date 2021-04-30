@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/02/28 12:31:32.015.pas,J:\SuperProjetos\OS BIG Viewer\Unit1.pas=J:\SuperProjetos\OS BIG Viewer\BIG_File.pas</Transaction>
+    <Transaction>2007/02/28 12:57:34.109.pas,J:\SuperProjetos\OS BIG Viewer\Unit1.pas=J:\SuperProjetos\OS BIG Viewer\BasicDataTypes.pas</Transaction>
+    <Transaction>2007/03/02 11:28:12.968.pas,J:\SuperProjetos\OS BIG Viewer\Unit1.pas=J:\SuperProjetos\OS BIG Viewer\FormDestination.pas</Transaction>
+    <Transaction>2007/03/02 11:28:12.968.dfm,J:\SuperProjetos\OS BIG Viewer\Unit1.dfm=J:\SuperProjetos\OS BIG Viewer\FormDestination.dfm</Transaction>
+    <Transaction>2007/03/02 11:35:00.858.PAS,J:\SuperProjetos\OS BIG Viewer\SDIMAIN.PAS=J:\SuperProjetos\OS BIG Viewer\FormBIGMain.PAS</Transaction>
+    <Transaction>2007/03/02 11:35:00.858.dfm,J:\SuperProjetos\OS BIG Viewer\SDIMAIN.dfm=J:\SuperProjetos\OS BIG Viewer\FormBIGMain.dfm</Transaction>
+    <Transaction>2007/03/02 11:37:10.686.PAS,J:\SuperProjetos\OS BIG Viewer\ABOUT.PAS=J:\SuperProjetos\OS BIG Viewer\FormAboutBox.PAS</Transaction>
+    <Transaction>2007/03/02 11:37:10.686.dfm,J:\SuperProjetos\OS BIG Viewer\ABOUT.dfm=J:\SuperProjetos\OS BIG Viewer\FormAboutBox.dfm</Transaction>
+    <Transaction>2007/03/02 12:30:02.749.pas,J:\SuperProjetos\OS BIG Viewer\Unit1.pas=J:\SuperProjetos\OS BIG Viewer\FormDirName.pas</Transaction>
+    <Transaction>2007/03/02 12:30:02.749.dfm,J:\SuperProjetos\OS BIG Viewer\Unit1.dfm=J:\SuperProjetos\OS BIG Viewer\FormDirName.dfm</Transaction>
+    <Transaction>2007/03/02 12:41:45.561.pas,J:\SuperProjetos\OS BIG Viewer\Unit1.pas=J:\SuperProjetos\OS BIG Viewer\BasicFunctions.pas</Transaction>
+    <Transaction>2007/03/02 12:45:20.999.pas,J:\SuperProjetos\OS BIG Viewer\FormDirName.pas=J:\SuperProjetos\OS BIG Viewer\FormNewDirName.pas</Transaction>
+    <Transaction>2007/03/02 12:45:20.999.dfm,J:\SuperProjetos\OS BIG Viewer\FormDirName.dfm=J:\SuperProjetos\OS BIG Viewer\FormNewDirName.dfm</Transaction>
+    <Transaction>2007/03/08 17:20:43.968.pas,J:\Projetos\OSBIgSource\OSBIgSource\Unit1.pas=J:\Projetos\OSBIgSource\OSBIgSource\BasicOptions.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,1 @@
+This version is a work in progress. Guests can browse and download files. If you are interested on developping this program with Banshee, contact him at bansheeppm[at]hotmail[dot]com, so he can add an account for you.

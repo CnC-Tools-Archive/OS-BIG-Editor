@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/03/11 12:45:21.015.pas,J:\Projetos\OSBIGEditor 0.51\Source\Source\Language.pas=J:\Projetos\OSBIGEditor 0.51\Source\Source\LanguageLoader.pas</Transaction>
+    <Transaction>2007/03/15 11:11:54.296.pas,J:\Projetos\OSBIGEditor 0.51\Source\Source\TreeViewDoubleItemQuickChecker.pas=J:\Projetos\OSBIGEditor 0.51\Source\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2007/03/17 18:59:32.984.pas,J:\Projetos\OSBIGEditor 0.51\Source\Source\TreeViewDoubleItemQuickChecker.pas=</Transaction>
+    <Transaction>2007/07/26 19:32:08.421.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\RefPackFunctions.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/01/15 15:03:19.468.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\ClassMyTreeView.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/01/15 15:05:58.687.dfm,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\FormBIGMain.dfm=</Transaction>
+    <Transaction>2008/01/15 15:05:58.687.PAS,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\FormBIGMain.PAS=</Transaction>
+    <Transaction>2008/01/16 15:30:03.312.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\ClassMyTreeView.pas=</Transaction>
+    <Transaction>2008/01/18 02:50:23.265.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\uCRC32.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/01/24 22:20:18.140.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\uFileViewer.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/01/25 01:43:11.921.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\FormBinaryWarning.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/01/25 01:43:11.921.dfm,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\FormBinaryWarning.dfm=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.dfm</Transaction>
+    <Transaction>2008/02/09 21:38:58.187.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\ClassSelectedNodes.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/02/09 21:39:17.828.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\uClassSelectedNodes.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\ClassSelectedNodes.pas</Transaction>
+    <Transaction>2008/02/09 21:39:27.734.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\uSelectedNodes.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\uClassSelectedNodes.pas</Transaction>
+    <Transaction>2008/02/13 23:59:11.406.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\uTempFileManager.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/02/16 20:44:25.156.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\uRealTimeEditionManager.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/02/16 21:53:52.984.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\uBIGRTEManager.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2008/02/17 00:20:15.640.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\BasicConstants.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+    <Transaction>2009/01/02 02:07:17.984.pas,J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\MIX_File.pas=J:\SuperProjetos\OS BIG Editor SVN\OS BIG Editor 0.6\Source\Project\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

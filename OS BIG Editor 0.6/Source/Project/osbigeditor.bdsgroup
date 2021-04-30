@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{1CA63AB6-ACE4-4C67-A02A-3B1554457359}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="bigeditor.exe">bigeditor.bdsproj</Projects>
+      <Projects Name="bigeditor_cl.exe">..\bigeditor_cl.bdsproj</Projects>
+      <Projects Name="Targets">bigeditor.exe bigeditor_cl.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+  <StarTeamAssociation></StarTeamAssociation>
+  <StarTeamNonRelativeFiles></StarTeamNonRelativeFiles>
+</BorlandProject>

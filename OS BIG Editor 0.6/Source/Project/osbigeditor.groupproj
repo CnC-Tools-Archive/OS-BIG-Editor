@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{EE7D66EE-991F-4E36-9539-6FCE5454A9FB}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="bigeditor.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\bigeditor_cl.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="bigeditor">
+        <MSBuild Projects="bigeditor.dproj"/>
+    </Target>
+    <Target Name="bigeditor:Clean">
+        <MSBuild Projects="bigeditor.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="bigeditor:Make">
+        <MSBuild Projects="bigeditor.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="bigeditor_cl">
+        <MSBuild Projects="..\bigeditor_cl.dproj"/>
+    </Target>
+    <Target Name="bigeditor_cl:Clean">
+        <MSBuild Projects="..\bigeditor_cl.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="bigeditor_cl:Make">
+        <MSBuild Projects="..\bigeditor_cl.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="bigeditor;bigeditor_cl"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="bigeditor:Clean;bigeditor_cl:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="bigeditor:Make;bigeditor_cl:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
